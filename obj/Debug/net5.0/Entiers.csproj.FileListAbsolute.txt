@@ -1,0 +1,16 @@
+C:\Users\benji\Desktop\C#\Entiers\bin\Debug\net5.0\Entiers.exe
+C:\Users\benji\Desktop\C#\Entiers\bin\Debug\net5.0\Entiers.deps.json
+C:\Users\benji\Desktop\C#\Entiers\bin\Debug\net5.0\Entiers.runtimeconfig.json
+C:\Users\benji\Desktop\C#\Entiers\bin\Debug\net5.0\Entiers.runtimeconfig.dev.json
+C:\Users\benji\Desktop\C#\Entiers\bin\Debug\net5.0\Entiers.dll
+C:\Users\benji\Desktop\C#\Entiers\bin\Debug\net5.0\ref\Entiers.dll
+C:\Users\benji\Desktop\C#\Entiers\bin\Debug\net5.0\Entiers.pdb
+C:\Users\benji\Desktop\C#\Entiers\obj\Debug\net5.0\Entiers.csprojAssemblyReference.cache
+C:\Users\benji\Desktop\C#\Entiers\obj\Debug\net5.0\Entiers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benji\Desktop\C#\Entiers\obj\Debug\net5.0\Entiers.AssemblyInfoInputs.cache
+C:\Users\benji\Desktop\C#\Entiers\obj\Debug\net5.0\Entiers.AssemblyInfo.cs
+C:\Users\benji\Desktop\C#\Entiers\obj\Debug\net5.0\Entiers.csproj.CoreCompileInputs.cache
+C:\Users\benji\Desktop\C#\Entiers\obj\Debug\net5.0\Entiers.dll
+C:\Users\benji\Desktop\C#\Entiers\obj\Debug\net5.0\ref\Entiers.dll
+C:\Users\benji\Desktop\C#\Entiers\obj\Debug\net5.0\Entiers.pdb
+C:\Users\benji\Desktop\C#\Entiers\obj\Debug\net5.0\Entiers.genruntimeconfig.cache
